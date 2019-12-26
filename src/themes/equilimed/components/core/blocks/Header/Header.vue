@@ -7,6 +7,7 @@
       <div class="container px15">
         <div class="row between-xs middle-xs" v-if="!isCheckoutPage || isThankYouPage">
           <div class="col-md-4 col-xs-2 middle-xs">
+            <h2>GOOOO!</h2>
             <div>
               <hamburger-icon class="p15 icon bg-cl-secondary pointer" />
             </div>

@@ -1,12 +1,13 @@
 <template>
   <div id="home">
-    <head-image />
+    <!-- <head-image /> -->
 
-    <promoted-offers />
+    <!-- <promoted-offers /> -->
 
     <section class="new-collection container px15">
       <div>
         <header class="col-md-12">
+          <h1>HERE</h1>
           <h2 class="align-center cl-accent">
             {{ $t('Everything new') }}
           </h2>
