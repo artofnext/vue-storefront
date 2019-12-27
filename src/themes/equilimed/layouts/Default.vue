@@ -25,6 +25,8 @@
         :is-open="isWishlistOpen"
         @close="$store.commit('ui/setWishlist')"
       />
+
+      <!-- In slot <link-view> -->
       <slot />
       <main-footer />
       <notification />
